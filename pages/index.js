@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Eu não vou desistir assim tão fácil não, nunca estive tão perto 
+    return <h1>O pai está chegando ok?
     </h1>
 }
 
